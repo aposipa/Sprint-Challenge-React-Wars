@@ -45,3 +45,25 @@ const App = () => {
 }
 
 export default App;
+
+// ReadMe questions:
+
+// What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+
+        // -- React JS is a JS library used to help build UI.  The main problems it tries to solve is the development of large applications that have temporal data changes.  It is also declarative and component based making it easier to use
+
+//  What does it mean to think in react?
+  
+        // --It means how you think about transistioning your UI.  React frees you up from that by being declarative and it re-renders itself.
+
+//  Describe state.
+
+        // --An object that determines how a component renders and behaves.
+
+//  Describe props.
+
+      // --A kind of global variable or object.
+
+//  What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+      // --Side effects are anything that affects something outside the function that is being executed.  You sync effects with useState and useEffect.
